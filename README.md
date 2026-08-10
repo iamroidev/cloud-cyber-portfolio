@@ -12,7 +12,7 @@ Portfolio: [iamroidev.vercel.app](https://iamroidev.vercel.app) · GitHub: [iamr
 
 | # | Project | Status | Skills |
 |---|---------|--------|--------|
-| 01 | [Security Ops Fundamentals](projects/01-security-ops-fundamentals/) | In progress | CIA triad, asset inventory, risk register, Linux logs, SQL analysis, playbooks |
+| 01 | [Security Ops Fundamentals](projects/01-security-ops-fundamentals/) | Complete (v1) | CIA triad, asset inventory, risk register, Linux logs, SQL analysis, playbooks |
 | 02 | [Botium Toys Risk & Compliance Assessment](projects/02-botium-toys-risk-assessment/) | Complete | Scope, risk assessment, controls, compliance checklist |
 | 03 | [Network Traffic Incident Analysis](projects/03-network-traffic-incident-analysis/) | Complete | Packet analysis, tcpdump, incident reporting |
 
@@ -22,7 +22,7 @@ Portfolio: [iamroidev.vercel.app](https://iamroidev.vercel.app) · GitHub: [iamr
 
 | Piece | Status |
 |-------|--------|
-| [Zero Trust in Sub-Saharan Africa (paper review)](writeups/zero-trust-ssa-review.md) | Planned |
+| [Zero Trust in Sub-Saharan Africa (paper review)](writeups/zero-trust-ssa-review.md) | Complete |
 | [Roadmap](docs/roadmap.md) | Active |
 
 ---

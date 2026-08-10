@@ -34,3 +34,5 @@ tmp/
 temp/
 *.log
 !projects/**/sample-logs/*.log
+*.db
+analysis.db

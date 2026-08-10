@@ -1,8 +1,8 @@
 # Evidence
 
-Redacted screenshots and query outputs for project 01 go here.
+Query outputs from project 01:
 
-Examples I plan to add:
+- [`failed-logins-query.txt`](failed-logins-query.txt)
+- [`successful-auth-query.txt`](successful-auth-query.txt)
 
-- `failed-logins-query.png`
-- `hardening-notes.txt`
+I keep secrets and real IPs out of commits. The sample logs use documentation-range addresses (`203.0.113.0/24`, `198.51.100.0/24`).

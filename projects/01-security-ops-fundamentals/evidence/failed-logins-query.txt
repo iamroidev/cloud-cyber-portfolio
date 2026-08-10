@@ -1,0 +1,16 @@
+# Failed logins by source IP
+
+Query run against `sample-logs/auth-events.csv` (SQLite).
+
+```text
+source_ip       failed_attempts  first_seen             last_seen
+--------------  ---------------  ---------------------  ---------------------
+203.0.113.10    12               2026-08-07T08:01:11Z   2026-08-07T08:03:27Z
+203.0.113.44    2                2026-08-07T11:40:18Z   2026-08-07T11:40:30Z
+```
+
+## Reading
+
+- `203.0.113.10` crossed my playbook trigger (more than 10 failures in about 2.5 minutes against `admin` / `root`).
+- `203.0.113.44` looks like noise (two failed attempts for `guest`).
+- After the spike, successful logins and sudo for `richard` came from `198.51.100.20` only. No successful login from the noisy IP in this sample.
