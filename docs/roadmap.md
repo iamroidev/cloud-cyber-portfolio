@@ -10,9 +10,10 @@
 
 ## Next
 
-- [ ] LinkedIn post for project 01
-- [ ] LinkedIn post for the Zero Trust paper review (separate post)
-- [ ] Project cards on [iamroidev.vercel.app](https://iamroidev.vercel.app)
+- [x] LinkedIn drafts written (`writeups/linkedin-drafts.md`)
+- [x] Portfolio case-study cards on iamroidev site
+- [ ] Post Draft A (Security Ops) on LinkedIn
+- [ ] Post Draft B (Zero Trust review) a few days later
 - [ ] AWS shared-responsibility baseline (IAM, SG, CloudTrail sample analysis)
 - [ ] Detection/response project after Google Cyber Course 6 concepts
 - [ ] Pin this repo on GitHub and LinkedIn Featured

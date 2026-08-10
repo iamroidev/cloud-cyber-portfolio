@@ -12,4 +12,4 @@ Likelihood and impact are scored from 1 (low) to 5 (high). Score = L × I.
 
 ## Notes
 
-These scores are for this learning project. I will revisit them after I run the SQL queries on the sample logs. When I close a risk, I will link it to a playbook step or hardening item.
+These scores are for this learning project. After running the SQL queries, I marked R-001 as detected in the sample and walked the failed-login playbook. When I close other risks, I will link each one to a playbook step or hardening item.
