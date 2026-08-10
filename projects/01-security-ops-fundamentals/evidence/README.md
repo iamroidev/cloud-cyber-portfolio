@@ -1,8 +1,8 @@
 # Evidence
 
-Add redacted screenshots and query outputs here as you complete project 01.
+Redacted screenshots and query outputs for project 01 go here.
 
-Suggested files:
+Examples I plan to add:
 
 - `failed-logins-query.png`
 - `hardening-notes.txt`

@@ -1,3 +1,3 @@
-# Google Cyber coursework exports
+# Google Cyber coursework
 
-Place additional Google Cyber exports here if needed. Certificate PDFs are under `archive/credentials/`.
+Extra Google Cyber reference files go here. Certificate PDFs are under `archive/credentials/`.

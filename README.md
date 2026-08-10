@@ -2,7 +2,7 @@
 
 Hands-on security and cloud projects by **Richard Kwaku Opoku** (UMaT · AWS CCP · Google Cybersecurity via One Million Coders · ISC2 CC path).
 
-This is not a dump of course homework. Each folder under `projects/` is framed as a **case study**: problem, approach, artifacts, and findings.
+This repo is where I track cloud and cybersecurity work as case studies, not as a pile of course dumps. Each folder under `projects/` covers a problem, how I approached it, the artifacts, and what I found.
 
 Portfolio: [iamroidev.vercel.app](https://iamroidev.vercel.app) · GitHub: [iamroidev](https://github.com/iamroidev)
 
@@ -10,8 +10,8 @@ Portfolio: [iamroidev.vercel.app](https://iamroidev.vercel.app) · GitHub: [iamr
 
 ## Projects
 
-| # | Project | Status | Skills shown |
-|---|---------|--------|--------------|
+| # | Project | Status | Skills |
+|---|---------|--------|--------|
 | 01 | [Security Ops Fundamentals](projects/01-security-ops-fundamentals/) | In progress | CIA triad, asset inventory, risk register, Linux logs, SQL analysis, playbooks |
 | 02 | [Botium Toys Risk & Compliance Assessment](projects/02-botium-toys-risk-assessment/) | Complete | Scope, risk assessment, controls, compliance checklist |
 | 03 | [Network Traffic Incident Analysis](projects/03-network-traffic-incident-analysis/) | Complete | Packet analysis, tcpdump, incident reporting |
@@ -31,19 +31,19 @@ Portfolio: [iamroidev.vercel.app](https://iamroidev.vercel.app) · GitHub: [iamr
 
 ```text
 cloud-cyber-portfolio/
-  projects/          # case studies (start here)
-  writeups/          # paper reviews and long-form notes
-  docs/              # roadmap and shared templates
-  archive/           # credentials + coursework reference (not the main story)
+  projects/          # case studies
+  writeups/          # paper reviews and longer notes
+  docs/              # roadmap
+  archive/           # credentials and coursework reference
 ```
 
 ---
 
-## How to review this repo (recruiters)
+## For reviewers
 
-1. Open a project README (problem → approach → findings).
-2. Check `evidence/` for completed reports and checklists.
-3. For project 01, run the SQL queries against sample logs to see analyst-style output.
+1. Start with a project README (problem → approach → findings).
+2. Check `evidence/` for the completed reports and checklists.
+3. In project 01, the SQL queries run against my sample auth logs.
 
 ---
 
@@ -54,4 +54,4 @@ cloud-cyber-portfolio/
 - AWS Certified Cloud Practitioner
 - Field exposure: Onix Data Centre (Tier IV), Accra
 
-Course glossaries and certificate PDFs live under `archive/` for reference. The **projects** folder is what to evaluate.
+Course glossaries and certificate PDFs are under `archive/`. The **projects** folder is the main work.

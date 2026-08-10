@@ -1,6 +1,6 @@
 # Linux hardening checklist (lab)
 
-Use on a disposable lab host only.
+Checklist for a disposable lab host only.
 
 ## Access
 
@@ -13,19 +13,19 @@ Use on a disposable lab host only.
 
 - [ ] Host firewall default deny inbound
 - [ ] Allow only required ports
-- [ ] Do not expose lab SSH to `0.0.0.0/0` if using cloud
+- [ ] Avoid exposing lab SSH to `0.0.0.0/0` if I use cloud
 
 ## Logging
 
 - [ ] Confirm `auth.log` / `secure` is writing
-- [ ] Copy sample logs into this repo (sanitized)
+- [ ] Keep sanitized sample logs in this repo
 - [ ] Note timezone used in logs
 
 ## Patch / packages
 
-- [ ] Apply updates on lab image
+- [ ] Apply updates on the lab image
 - [ ] Remove unused network services
 
 ## Evidence
 
-Save command output (redacted) under `../evidence/` when you complete items.
+I will save redacted command output under `../evidence/` as I complete items.

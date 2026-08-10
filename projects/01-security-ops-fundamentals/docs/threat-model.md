@@ -2,9 +2,9 @@
 
 ## Scope
 
-Single lab host used to practice authentication log review. No real customer data.
+Single lab host I use to practice authentication log review. No real customer data.
 
-## What we care about (CIA)
+## What I care about (CIA)
 
 | Goal | Meaning here |
 |------|----------------|
@@ -14,9 +14,9 @@ Single lab host used to practice authentication log review. No real customer dat
 
 ## Likely attackers (lab context)
 
-1. Opportunistic internet scanner (if host were exposed)
+1. Opportunistic internet scanner (if the host were exposed)
 2. Local user with a stolen password
-3. Insider/student mistake (over-permissioned account)
+3. Mistake from over-permissioned access
 
 ## Entry points
 
@@ -24,13 +24,13 @@ Single lab host used to practice authentication log review. No real customer dat
 - Local console
 - Stolen credentials
 
-## Mitigations practiced in this project
+## Mitigations I am practicing in this project
 
 - Inventory + risk register
 - Log review with SQL
 - Failed-login playbook
 - Linux hardening checklist
 
-## Out of scope (for now)
+## Out of scope for now
 
-Full SIEM, malware analysis, red-team tooling.
+Full SIEM, malware analysis, and red-team tooling. I will add those later when I get further into the Google Cyber path.

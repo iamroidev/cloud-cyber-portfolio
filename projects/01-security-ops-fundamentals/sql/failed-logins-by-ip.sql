@@ -1,7 +1,7 @@
 # Failed logins by source IP
-# Import auth-events.csv into SQLite or any SQL engine, then run:
+# Load auth-events.csv into SQLite (or another SQL engine), then run:
 
--- SQLite example:
+-- SQLite:
 -- .mode csv
 -- .import sample-logs/auth-events.csv auth_events
 

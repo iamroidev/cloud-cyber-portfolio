@@ -1,4 +1,4 @@
-# How to run the sample analysis (SQLite)
+# Running the sample analysis (SQLite)
 
 From this project folder:
 
@@ -15,4 +15,4 @@ sqlite3 analysis.db
 .read sql/successful-auth-and-sudo.sql
 ```
 
-Save a redacted screenshot or text output under `evidence/`.
+I keep redacted screenshots or text output under `evidence/`.
