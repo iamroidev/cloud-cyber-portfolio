@@ -1,0 +1,20 @@
+# Synthetic auth events (CSV for SQL practice)
+# timestamp,host,source_ip,user,event,result
+2026-08-07T08:01:11Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:01:18Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:01:25Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:01:40Z,lab-web-01,203.0.113.10,root,ssh_login,failure
+2026-08-07T08:01:55Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:02:10Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:02:22Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:02:35Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:02:48Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:03:01Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:03:14Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:03:27Z,lab-web-01,203.0.113.10,admin,ssh_login,failure
+2026-08-07T08:10:02Z,lab-web-01,198.51.100.20,richard,ssh_login,success
+2026-08-07T08:12:44Z,lab-web-01,198.51.100.20,richard,sudo,success
+2026-08-07T09:15:03Z,lab-web-01,198.51.100.20,richard,ssh_login,success
+2026-08-07T11:40:18Z,lab-web-01,203.0.113.44,guest,ssh_login,failure
+2026-08-07T11:40:30Z,lab-web-01,203.0.113.44,guest,ssh_login,failure
+2026-08-07T11:41:02Z,lab-web-01,198.51.100.20,richard,sudo,success

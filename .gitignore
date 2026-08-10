@@ -1,0 +1,36 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Secrets and local env
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+credentials.json
+aws-exports.js
+
+# Large / copyrighted materials (keep locally if needed)
+archive/textbooks/
+*.iso
+*.vmdk
+*.ova
+
+# Python / tooling
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# Temporary
+tmp/
+temp/
+*.log
+!projects/**/sample-logs/*.log
