@@ -82,7 +82,7 @@ Zero Trust is not “buy a tool.” It is inventory, least privilege, monitoring
 
 ---
 
-## LinkedIn-ready summary
+## My LinkedIn summary
 
 I reviewed a TechRxiv paper on Zero Trust adoption in Sub-Saharan Africa. The core point for me: awareness is rising, but skills, cost, and weak local vendor ecosystems still block real deployments.
 
